@@ -1,8 +1,5 @@
 /*Problem Link: https://www.codingninjas.com/studio/problems/bubble-sort_980524?interviewProblemRedirection=true */
 
-import java.util.*;
-import java.io.*;
-
 public class Solution {
 
     // function to perform the bubble sort on an arry

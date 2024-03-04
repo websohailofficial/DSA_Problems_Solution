@@ -1,7 +1,4 @@
-
 /*Problem Link: https://www.codingninjas.com/studio/problems/selection-sort_981162?interviewProblemRedirection=true&leftPanelTabValue=PROBLEM&customSource=studio_nav */
-import java.util.*;
-import java.io.*;
 
 public class Solution {
     public static void selectionSort(int arr[], int n) {
